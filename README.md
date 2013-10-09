@@ -1,4 +1,4 @@
-LedBorg CPU Monitor on RasperryPi
+LedBorg CPU Monitor on RaspberryPi
 ===================
 
 Simple script written in Python for free use on your RaspberryPi with LedBorg, handy tool for monitoring your CPU usage in a simple way.
