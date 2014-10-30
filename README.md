@@ -10,6 +10,7 @@ I have implemented gradient of 10 colors, from blue(<10%)-green(<50%)-red(<90%) 
 <li>
 <ul>Raspberry Pi</ul>
 <ul><a href="http://www.piborg.com/ledborg">LedBorg from PiBorg</a></ul>
+<ul>WiringPi2 Python module, installation instructions <a href="https://www.piborg.org/ledborg-new/install">available here</a></ul>
 <ul>Python 2.7</ul>
 <ul><a href="https://code.google.com/p/psutil/">psutil module</a></ul>
 <ul>Some linux knowledge</ul>
